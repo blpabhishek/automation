@@ -1,0 +1,4 @@
+.terraform/
+.envrc
+gcp-cred.json
+plan.out
